@@ -1,0 +1,97 @@
+footer {
+    width: 1920px;
+    height: 247px;
+    flex-shrink: 0;
+    background: #1D2122;
+}
+
+.menu_footer {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 50px;
+}
+
+p1 {
+    color: #FFF;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.20);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+p2 {
+    color: #FFF;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.20);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: auto;
+    height: auto;
+}
+
+p3 {
+    color: #FFF;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.20);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: auto;
+    height: auto;
+}
+
+p4 {
+    color: #FFF;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.20);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: auto;
+    height: auto;
+}
+
+p5 {
+    color: #FFF;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.20);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: auto;
+    height: auto;
+}
+
+p6 {
+    color: #FFF;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.20);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: auto;
+    height: auto;
+}
+
+p7 {
+    color: #FFF;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.20);
+    font-family: Font Awesome 6 Free;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    width: auto;
+    height: auto;
+}
